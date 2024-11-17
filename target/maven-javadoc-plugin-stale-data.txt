@@ -1,0 +1,46 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'C:/Users/USUARIO/.m2/repository/mysql/mysql-connector-java/8.0.30/mysql-connector-java-8.0.30.jar;C:/Users/USUARIO/.m2/repository/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'23'
+-sourcepath
+'C:/xampp/htdocs/Java_crud_Mysql/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/xampp/htdocs/Java_crud_Mysql/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Java_crus_Mysql 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Java_crus_Mysql 1.0-SNAPSHOT API'
+com.mycompany.java_crus_mysql
+C:\Users\USUARIO\.m2\repository\mysql\mysql-connector-java\8.0.30\mysql-connector-java-8.0.30.jar = 1730226235989
+C:\Users\USUARIO\.m2\repository\com\google\protobuf\protobuf-java\3.19.4\protobuf-java-3.19.4.jar = 1730226235953
+C:\xampp\htdocs\Java_crud_Mysql\src\main\java = 1730309165507
+C:\xampp\htdocs\Java_crud_Mysql\target\reports\apidocs\allclasses-index.html = 1730310047686
+C:\xampp\htdocs\Java_crud_Mysql\target\reports\apidocs\allpackages-index.html = 1730310047693
+C:\xampp\htdocs\Java_crud_Mysql\target\reports\apidocs\element-list = 1730310047368
+C:\xampp\htdocs\Java_crud_Mysql\target\reports\apidocs\help-doc.html = 1730310047845
+C:\xampp\htdocs\Java_crud_Mysql\target\reports\apidocs\index-all.html = 1730310047812
+C:\xampp\htdocs\Java_crud_Mysql\target\reports\apidocs\index.html = 1730310047834
+C:\xampp\htdocs\Java_crud_Mysql\target\reports\apidocs\member-search-index.js = 1730310047706
+C:\xampp\htdocs\Java_crud_Mysql\target\reports\apidocs\module-search-index.js = 1730310047699
+C:\xampp\htdocs\Java_crud_Mysql\target\reports\apidocs\overview-tree.html = 1730310047651
+C:\xampp\htdocs\Java_crud_Mysql\target\reports\apidocs\package-search-index.js = 1730310047701
+C:\xampp\htdocs\Java_crud_Mysql\target\reports\apidocs\search.html = 1730310047829
+C:\xampp\htdocs\Java_crud_Mysql\target\reports\apidocs\serialized-form.html = 1730310047576
+C:\xampp\htdocs\Java_crud_Mysql\target\reports\apidocs\tag-search-index.js = 1730310047709
+C:\xampp\htdocs\Java_crud_Mysql\target\reports\apidocs\type-search-index.js = 1730310047703

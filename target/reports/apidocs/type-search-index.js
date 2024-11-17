@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.mycompany.java_crus_mysql","l":"CAlumno"},{"p":"com.mycompany.java_crus_mysql","l":"CConexion"},{"p":"com.mycompany.java_crus_mysql","l":"FromAlumnos"},{"p":"com.mycompany.java_crus_mysql","l":"inicio"}];updateSearchResults();
